@@ -11,6 +11,6 @@
 - [ ] Deploy(AWS)
 
 
-# DEPENDENCIES
+## DEPENDENCIES
 - gin -> library to http request
 - air -> package to watch runner
